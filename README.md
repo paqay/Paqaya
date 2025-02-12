@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Gamedesign
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me: jakob.m.ebner@gmail.com
+- 📫 How to reach me: -
 
 <!---
 Paqaya/Paqaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
